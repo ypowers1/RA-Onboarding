@@ -1,0 +1,2 @@
+# RA-Onboarding
+This course is designed to familiarize Research Assistants and Research Analysts with DIME’s standards for data work. By the end of the courses six sessions, participants will have the tools and knowledge to implement best practices for transparent and reproducible research. The course will focus on how to set up a collaborative workflow for code, data sets and research outputs. Most content is platform and software agnostic, but participants are expected to be familiar with statistical software.
